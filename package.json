@@ -3,13 +3,15 @@
   "version": "1.1.2",
   "description": "Copy a file or directory!",
   "files": [
-    "lib"
+    "lib",
+    "bin"
   ],
   "bin": {
-    "ts-copy-dir": "./lib/index.js"
+    "ts-copy-dir": "bin/index"
   },
   "main": "lib/index.js",
   "scripts": {
+    "compile:src": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
