@@ -1,5 +1,5 @@
 {
-  "name": "ts-copy-dir",
+  "name": "@lindellcarter/ts-copy-dir",
   "version": "1.0.0",
   "description": "Copy a file or directory!",
   "files": ["lib"],
