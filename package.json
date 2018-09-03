@@ -5,6 +5,9 @@
   "files": [
     "lib"
   ],
+  "bin": {
+    "ts-copy-dir": "./lib/index.js"
+  },
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
