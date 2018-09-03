@@ -1,0 +1,19 @@
+{
+  "name": "ts-copy-dir",
+  "version": "1.0.0",
+  "description": "Copy a file or directory!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindellcarternyc/ts-copy-dir.git"
+  },
+  "author": "Lindell Carter <lindellcarternyc@gmail.com> (https://github.com/lindellcarternyc)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lindellcarternyc/ts-copy-dir/issues"
+  },
+  "homepage": "https://github.com/lindellcarternyc/ts-copy-dir#readme"
+}
