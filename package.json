@@ -3,12 +3,8 @@
   "version": "1.2.0",
   "description": "Copy a file or directory!",
   "files": [
-    "lib",
-    "bin"
+    "lib"
   ],
-  "bin": {
-    "ts-copy-dir": "bin/index"
-  },
   "main": "lib/index.js",
   "scripts": {
     "compile:src": "tsc",
